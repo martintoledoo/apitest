@@ -1,0 +1,20 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martintoledoo/apitest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martintoledoo/apitest/issues"
+  },
+  "homepage": "https://github.com/martintoledoo/apitest#readme"
+}
