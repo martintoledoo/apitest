@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Absolut",
+        "description": "Botella de Absolut + 5 Red Bull",
+        "price": 4000,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/185/530/products/absolut-1-l1-b3e45793e29947995315910639689758-480-0.png"
+    },
+    {
+        "id": 2,
+        "name": "Fernet",
+        "description": "Botella de Fernet + 2 Cocas",
+        "price": 1800,
+        "img": "https://d2r9epyceweg5n.cloudfront.net/stores/001/211/362/products/branca-fernet-750ml1-e57f929283e30176a415915681850007-1024-1024.png"
+    },
+    {
+        "id": 3,
+        "name": "Skyy",
+        "description": "Botella de Skyy + 5 Speed",
+        "price": 2000,
+        "img": "http://www.tubar.com.ar/739/vodka-skyy-clasico-750-ml.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jagger",
+        "description": "Botella de Jagger + 5 Red Bull",
+        "price": 4200,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_666694-MLA31087282271_062019-O.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Santa Julia",
+        "description": "Botella Santa Julia",
+        "price": 800,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/185599/7791728000115_02.jpg?v=637468595241600000"
+    }
+]

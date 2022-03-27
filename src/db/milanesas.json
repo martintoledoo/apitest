@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Milanesa de Pollo americano",
+        "description": "pollo, cheddar, panceta, huevo, cebolla caramelizada",
+        "price": 520,
+        "img": "https://media.elpatagonico.com/p/61cb191f18885481cfbcb80b2e850790/adjuntos/193/imagenes/028/995/0028995549/1200x1200/smart/sandwichjpg.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Milanesa Pollo completo",
+        "description": "pollo, lechuga, tomate, jamón, queso, huevo",
+        "price": 520,
+        "img": "https://media.elpatagonico.com/p/61cb191f18885481cfbcb80b2e850790/adjuntos/193/imagenes/028/995/0028995549/1200x1200/smart/sandwichjpg.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Milanesa Carne americano",
+        "description": "carne, cheddar, panceta, huevo, cebolla caramelizada",
+        "price": 520,
+        "img": "https://media.elpatagonico.com/p/61cb191f18885481cfbcb80b2e850790/adjuntos/193/imagenes/028/995/0028995549/1200x1200/smart/sandwichjpg.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Milanesa Carne completo",
+        "description": "carne, lechuga, tomate, jamón, queso, huevo",
+        "price": 520,
+        "img": "https://media.elpatagonico.com/p/61cb191f18885481cfbcb80b2e850790/adjuntos/193/imagenes/028/995/0028995549/1200x1200/smart/sandwichjpg.jpg"
+    }
+]

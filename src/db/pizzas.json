@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Americana",
+        "description": "",
+        "price": 550,
+        "img": "https://veenaazmanov.com/wp-content/uploads/2020/04/Pizza-Margherita14-500x500.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pizza Especial",
+        "description": "",
+        "price": 500,
+        "img": "https://veenaazmanov.com/wp-content/uploads/2020/04/Pizza-Margherita14-500x500.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pizza Especial con huevo",
+        "description": "",
+        "price": 520,
+        "img": "https://veenaazmanov.com/wp-content/uploads/2020/04/Pizza-Margherita14-500x500.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pizza Fugazzeta",
+        "description": "",
+        "price": 520,
+        "img": "https://veenaazmanov.com/wp-content/uploads/2020/04/Pizza-Margherita14-500x500.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pizza Muzzarella",
+        "description": "",
+        "price": 480,
+        "img": "https://veenaazmanov.com/wp-content/uploads/2020/04/Pizza-Margherita14-500x500.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pizza Muzzarella con huevo",
+        "description": "",
+        "price": 500,
+        "img": "https://veenaazmanov.com/wp-content/uploads/2020/04/Pizza-Margherita14-500x500.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Pizza Napolitana",
+        "description": "",
+        "price": 500,
+        "img": "https://veenaazmanov.com/wp-content/uploads/2020/04/Pizza-Margherita14-500x500.jpg"
+    }
+]

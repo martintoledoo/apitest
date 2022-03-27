@@ -2,9 +2,10 @@
   "name": "apitest",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"nodemon src/server.js \""
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/martintoledoo/apitest/issues"
   },
-  "homepage": "https://github.com/martintoledoo/apitest#readme"
+  "homepage": "https://github.com/martintoledoo/apitest#readme",
+  "dependencies": {
+    "concurrently": "^7.0.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }

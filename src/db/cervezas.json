@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Pinta IPA",
+        "description": "",
+        "price": 220,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/852/895/products/imperial-ipa-21-05f42d097775da279415690118034807-1024-1024.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pinta Negra",
+        "description": "",
+        "price": 220,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/852/895/products/imperial-ipa-21-05f42d097775da279415690118034807-1024-1024.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pinta Roja",
+        "description": "",
+        "price": 220,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/852/895/products/imperial-ipa-21-05f42d097775da279415690118034807-1024-1024.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pinta Rubia",
+        "description": "",
+        "price": 220,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/852/895/products/imperial-ipa-21-05f42d097775da279415690118034807-1024-1024.jpg"
+    }
+]

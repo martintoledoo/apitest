@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Marina Díaz",
+        "age": 25,
+        "gender": "F",
+        "email": "marina.diaz@gmail.com",
+        "country": "Argentina"
+    },
+    {
+        "id": 2,
+        "name": "Albino Gómez",
+        "age": 62,
+        "gender": "M",
+        "email": "albino.gomez@hotmail.com",
+        "country": "Argentina"
+    },
+    {
+        "id": 3,
+        "name": "Xiomara Catalán",
+        "age": 23,
+        "gender": "F",
+        "email": "xiomara.catalan@gmail.com",
+        "country": "Spain"
+    },
+    {
+        "id": 4,
+        "name": "Sergio Cortés",
+        "age": 18,
+        "gender": "M",
+        "email": "sergio.cortez@gmail.com",
+        "country": "Spain"
+    },
+    {
+        "id": 5,
+        "name": "Jerónimo Valiente",
+        "age": 55,
+        "gender": "M",
+        "email": "jeronimo.valiente@hotmail.com",
+        "country": "Spain"
+    },
+    {
+        "id": 6,
+        "name": "Juancho Esteban",
+        "age": 21,
+        "gender": "M",
+        "email": "juancho.esteban@gmail.com",
+        "country": "Argentina"
+    },
+    {
+        "id": 7,
+        "name": "Rubén Expósito",
+        "age": 48,
+        "gender": "M",
+        "email": "ruben.exposito@hotmail.com",
+        "country": "Argentina"
+    },
+    {
+        "id": 8,
+        "name": "Oriana Delgado",
+        "age": 36,
+        "gender": "F",
+        "email": "oriana.delgado@hotmail.com",
+        "country": "Argentina"
+    },
+    {
+        "id": 9,
+        "name": "Luz Morales",
+        "age": 31,
+        "gender": "F",
+        "email": "luz.morales@gmail.com",
+        "country": "Argentina"
+    },
+    {
+        "id": 10,
+        "name": "Florencio Elizondo",
+        "age": 42,
+        "gender": "M",
+        "email": "florencio.elizondo@gmail.com",
+        "country": "Spain"
+    },
+    {
+        "id": 11,
+        "name": "Andrea San Nicolás",
+        "age": 56,
+        "gender": "F",
+        "email": "andrea.sannicolas@hotmail.com",
+        "country": "Spain"
+    },
+    {
+        "id": 12,
+        "name": "Mauricio Fonseca",
+        "age": 69,
+        "gender": "M",
+        "email": "mauricio.fonseca@hotmail.com",
+        "country": "Spain"
+    },
+    {
+        "id": 13,
+        "name": "Baltasar Antúnez",
+        "age": 58,
+        "gender": "M",
+        "email": "baltasar.antunez@gmail.com",
+        "country": "Spain"
+    },
+    {
+        "id": 14,
+        "name": "Margarita Maldonado",
+        "age": 33,
+        "gender": "F",
+        "email": "margarita.maldonado@gmail.com",
+        "country": "Spain"
+    },
+    {
+        "id": 15,
+        "name": "Silvio Puerta",
+        "age": 38,
+        "gender": "M",
+        "email": "silvio.puerta@gmail.com",
+        "country": "Argentina"
+    }
+]
